@@ -1,7 +1,7 @@
 CitiConnect-Kubana-Kevin
 
 
-## 🏡 Engagement System
+## 🏡 CitiConnect
 
 A web-based platform that allows citizens to submit, track, and get responses to complaints related to public services. Government agencies can respond to complaints and update their statuses in real time.
 
