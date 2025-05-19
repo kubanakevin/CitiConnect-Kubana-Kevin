@@ -165,5 +165,5 @@ MIT License © 2025 KUBANA Kevin
 
 ## First User 
 . I made the free account creation so it can be easy to use it but i can hide the account creation for agency header but i made it free , you will see it on the Login page 
-.Enter Username,Email,Phone,Password,add Agency your
+.Enter Username,Email,Phone,,agencyPassword,add Agency your
 .click Register in order to get access to system 
