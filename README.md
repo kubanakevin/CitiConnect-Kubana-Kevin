@@ -37,6 +37,7 @@ A web-based platform that allows citizens to submit, track, and get responses to
 * **HTTP Client:** Axios
 
 ---
+####### Inside backend folder you will found Database folder that have database called 'citiconnect' and it in xampp before run the project
 
 ## 🚀 Getting Started
 
