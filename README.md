@@ -1,5 +1,11 @@
 CitiConnect-Kubana-Kevin
 
+How it Work 
+1 unzip the folder
+2 Open it in edito and open terminal
+3 type this command: cd frontend, npm install, npm start
+4 in teminal again  type: cd backend, npm start in order to start server
+
 
 ## 🏡 CitiConnect
 
